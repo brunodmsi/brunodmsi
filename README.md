@@ -1,6 +1,6 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/79571/screenshots/2949793/what_kind_of_programmer_are_you.png" />
 
-### Hello World
+### Hello World <img src="https://raw.githubusercontent.com/brunodmsi/brunodmsi/main/wave.gif" width="30px" />
 Me chamo Bruno De Masi, gosto de implementar e desenvolver uma cultura local de padronização e boas práticas de código. Ficando cada vez mais com afinidade em desenvolvimento Web, e tentando ao mesmo tempo me aproximar de DevOps e Clouding solutions.
 
 Você também pode me achar em [![Linkedin][1.2]][1]
